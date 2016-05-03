@@ -1,0 +1,33 @@
+The command line interface (CLI) is a place for typing commands to the computer. Early computers relied on the CLI to foster 
+human-computer interaction. Nowadays, computer users are less familiar with the CLI and tend to use the graphical user interface (GUI),
+an interface that allows interaction with devices via graphical icons. Unlike the GUI, the CLI uses text and keyboard to perform the same 
+tasks. There are tradeoffs in using one over the other, namely the steep learning curve that needs to be overcome to be able to reap the 
+benefits of CLI. However, it is not obsolete: it has its niche in the modern world and continues to evolve.
+
+To operate the CLI, users must open a terminal window where commands can be typed. Every command line begins with a symbol called the 
+prompt, and users enter commands after it. A set of syntax rules and keywords must be learned in order to know what to type in the 
+terminal. The structure of each command is the command itself, parameters, and flags. The commands can be general in functionality;
+parameters and flags must guide the command in performing specific actions. With these in mind, the user can use the CLI to travel
+around the computer. The user can traverse directories and enter folders to find files. The CLI allows users to manipulate these
+quickly and concisely: files can be copied over from one location to another with one command, and hundreds of files can simultaneously 
+be renamed with similar ease.  
+
+While the CLI provides experts with advantages over computer control, it repels beginners with its steep learning curve. For experts 
+who know what to type, the interface will operate extremely fast. The CLI consumes much less memory (RAM) in order to use, and it does
+not consume as much computer processing time as other interfaces. It does not require the common operating system Windows, and it can
+even be used on a cheap monitor, making the CLI very affordable. For beginners who are unfamiliar with the syntax of command line,
+learning the code is difficult as commands must be typed out perfectly. A single mistake can force a user to restart an entire process.
+Hundreds of commands must be learned, and these instructions cannot be guessed. Compared to the GUI, the multitasking capabilities of
+the CLI are not easily available. Incorrect commands can also be dangerous for the computer, possibly resulting in the deletion of 
+files or the overuse of computer resources.
+
+Though the modern CLI still relies on keyboard typing, it is continually used by those seeking quick command over a computer. The 
+other benefits of the CLI, resource efficiency and affordability, also prevent the interface from becoming obsolete. In fact, some
+are finding that the CLI and GUI can be combined. Of course, there are those that are advanced in programming and software development 
+that find the command line faster to use. But, the combination of the GUI and CLI is an interesting one, and people find that graphics 
+will affect the ease of use of the command line.
+
+The command line is a powerful tool that is the preface to programming languages. In essence, the command line user is commanding
+the computer what to do. The process is not for beginners; command line is oriented towards experts. However, once the command line 
+system has been mastered, it makes it easy for experts to carry out tasks. The CLI has its advantages and disadvantages, but the 
+modern world still has use for this system.
